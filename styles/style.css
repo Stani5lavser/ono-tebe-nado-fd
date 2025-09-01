@@ -263,8 +263,7 @@
     display: grid;
     grid-template-columns: auto 1fr auto;
     align-items: flex-start;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 0 50px 82px;
 }
 
 .footer__address {
