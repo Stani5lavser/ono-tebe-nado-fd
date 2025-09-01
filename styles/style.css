@@ -153,6 +153,11 @@
 }
 
 .card__link {
+    height: 100%;
+    text-decoration: none;
+}
+
+.lots__card {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
