@@ -126,7 +126,7 @@
     width: 256px;
     height: 51px;
     background-color: transparent;
-    border: 2px solid white;
+    border: 2px solid currentColor;
     font-family: Raleway, sans-serif;
     color: #fff;
     text-transform: uppercase;
